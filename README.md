@@ -1,5 +1,5 @@
 # Continuum-Fitting-the-X-ray-Spectra-of-Tidal-Disruption-Events
-slimdisksolution.zi
+slimdisksolution.zip
 
 The disk solutions for case (M=10^7Ms,a=0.998) and (M=4x10^6Ms, a=0.7) are included in slimdisksolution.zip. 
 They are all "txt" format files. The name of each file shows the imformation of BH mass, BH spin and accretion rate, 
