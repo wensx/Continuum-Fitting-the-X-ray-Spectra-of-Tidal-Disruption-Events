@@ -9,3 +9,8 @@ of Edd (1.37e21 x M_6 kg/s),and the radiation efficiency eta=0.1. Viscous parame
 There are 12 colunms in each file, correspondening to:
 radius r [M], radius velocity V_r [c], mid-plane temperature T_c [K], angular velosity Omega, beta=P_g/P, H/r,total flux F_r [erg/cm^2/s], surface density Sigma [g/cm^3], effect temperature T_e [K], u_r, u_t and u_\phi.
 Note that T_e should multiply by 2^0.25 due to a factor of 2 have been ignored in the output file.
+
+
+Un-absorbed-synthetic-spectra.zip
+
+The best-fit un-absorbed synthetic spectra of ASSASN-14li (10 epochs) and ASSASN-15oi (2 epochs). For ASSASN-15oi, the spectra include the best-fit of General case, slimming disk, Delay accretion and Variable obscuration fitting. There are two columns in each file. The first is energy [Kev] and the second is flux [photons /s/cm^2].
